@@ -2,8 +2,8 @@
 title: Эмоциональный IQ
 description: Эмоциональный IQ
 published: true
-date: 2026-11-02T14:46:18.169Z
-tags: психология, эмоциональный iq
+date: 2026-11-02T18:25:49.515Z
+tags: eq, эмоциональный интеллект, развитие ребенка
 editor: markdown
 dateCreated: 2026-11-02T14:42:37.803Z
 ---
